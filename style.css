@@ -12,5 +12,18 @@
 }
 
 .titulo-item{
-    font-size: 48px;
+    font-size: 50px;
+}
+
+.sobre{
+    background-color: #000000;
+    color: white;
+    display: flex;
+    justify-content: center;
+    padding: 65px 65px;
+}
+
+.texto {
+    font-size: 29px;
+    text-align: center;
 }
