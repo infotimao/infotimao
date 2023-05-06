@@ -1,4 +1,16 @@
-header {
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.titulo {
     background-color: #000000 ;
     color: white;
+    display: flex;
+    justify-content: space-around ;
+    padding: 24px 0;
+}
+
+.titulo-item{
+    font-size: 48px;
 }
