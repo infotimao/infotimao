@@ -8,11 +8,11 @@
     color: white;
     display: flex;
     justify-content: space-around ;
-    padding: 24px 0;
+    padding: 19px 0;
 }
 
 .titulo-item{
-    font-size: 50px;
+    font-size: 60px;
 }
 
 .sobre{
@@ -26,4 +26,107 @@
 .texto {
     font-size: 29px;
     text-align: center;
+}
+
+.conquistas {
+    width: auto;
+    margin: auto;
+    position: relative;
+    color: white;
+}
+
+.conquistas img {
+    width: 100%;
+}
+
+.primeiro {
+    position: absolute;
+    left: 25%;
+    right: 25%;
+    top: 1%;
+    text-align: center;
+    padding: 20px;
+    font-size: 40px;
+}
+
+.segundo {
+    position: absolute;
+    top: 12%;
+    left: 4%;
+    text-align: left;
+    padding: 20px;
+    font-size: 25px;
+}
+
+.terceiro {
+    position: absolute;
+    top: 12%;
+    left: 35%;
+    text-align: left;
+    padding: 20px;
+    font-size: 25px;
+}
+
+.quarto {
+    position: absolute;
+    top: 12%;
+    left: 53%;
+    text-align: left;
+    padding: 20px;
+    font-size: 25px;
+}
+
+.quinto {
+    position: absolute;
+    top: 12%;
+    right: 4%;
+    text-align: left;
+    padding: 20px;
+    font-size: 25px;
+}
+
+.sexto {
+    position: absolute;
+    top: 28%;
+    left: 4%;
+    text-align: left;
+    padding: 25px;
+    font-size: 25px;
+} 
+
+.setimo {
+    position: absolute;
+    top: 28%;
+    left: 30%;
+    text-align: left;
+    padding: 20px;
+    font-size: 25px;
+}
+
+.oitavo {
+    position: absolute;
+    top: 28%;
+    left: 50%;
+    right: 4%;
+    text-align: center;
+    padding: 20px;
+    font-size: 20px;
+}
+
+.mulheres {
+    position: absolute;
+    top: 48%;
+    left: 7%;
+    text-align: left;
+    padding: 20px;
+    font-size: 31px;
+}
+.linha {
+    position: absolute;
+    top: 40%;
+    left: 2%;
+    right: 2%;
+    text-align: center;
+    font-size: 63px;
+    color: red;
 }
